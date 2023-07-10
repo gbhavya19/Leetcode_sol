@@ -44,6 +44,8 @@ public:
         return (input.size() + output.size() == 0);
     }
 };
+
+
 /**
  * Your MyQueue object will be instantiated and called as such:
  * MyQueue* obj = new MyQueue();
